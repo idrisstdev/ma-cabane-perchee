@@ -1,7 +1,7 @@
-# Ma Cabane Perchée
+# Ma Cabane Perchée dans les manguiers
 
-Ma Cabane Perchée dans les manguiers est un projet fait pour un micro-entrepreneur lui permettant de montrer son activité.
+Ma Cabane Perchée dans les manguiers is a project created for a micro-entrepreneur, allowing him to showcase his activity.
 
-## Site web
+## Website
 
-On peut retrouver une démo à l'adresse suivante : [Ma Cabane Perchée](https://idrisstdev.github.io/ma-cabane-perchee/)
+A demo is available at the following address: [My Treehouse](https://idrisstdev.github.io/ma-cabane-perchee/)
